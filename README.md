@@ -5,7 +5,7 @@ The purpose of this project was to analyze a dataset of electric vehicle (EV) sp
 - Determine the most efficient car body type in terms of range and battery capacity.
 - Uncover actionable insights and performance patterns through interactive data visualizations.
 ## Dataset
-- Source: CSV file containing detailed EV specifications.
+- Source: CSV file containing detailed EV specifications. [[Visit website]](https://www.kaggle.com/datasets/urvishahir/electric-vehicle-specifications-dataset-2025)
 - Features include: Brand, Model, Top speed, Battery Capacity, Battery Type, Number of Cells, Torque, Efficiency, Range, Acceleration,
   Fast Charging Power, Fast Charge Port, Towing Capacity, Cargo Volume, Seats, Drivetrain, Segment, Length, Width, Height, Car Body Type, Source.
 ## Tools & Technologies
