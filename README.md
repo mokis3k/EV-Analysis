@@ -39,7 +39,20 @@ The result was the prediction of missing values based on machine learning.
 - Efficiency Index = Range / Efficiency (custom metric for overall effectiveness)
 - Efficiency per Battery = Range / Battery (optimization metric for battery use)
 ## Visualizations
-## Insights & Recommendations
+### The Report page contains a wide range of interactive visuals, including:
+- **Top-10 most efficient EV models** (bar chart)
+- **Efficiency by car body type** (column chart)
+- **Scatter plot** of Range vs. Efficiency with bubble size representing battery size, grouped by body type
+- **Slicers** for brand, body type, range, and battery capacity
+### The Insights page:
+- **Most efficient model**:
+> Tesla Model 3 Long Range RWD (Highland) — best Efficiency Index.
+- **Most efficient car body type**:
+> Sedan — top performer in terms of efficiency and range-to-battery ratio.
+- **Top-10 best EV models by Efficient Index and Efficiency per Battery** (column chart)
+- **Efficiency Index and Efficiency per Battery by car body type** (bar chart)
+- ## Insights & Recommendations
 - Sedans offer the best efficiency-to-range ratio among all body types
+- Tesla Model 3 Long Range RWD (Highland) offers the best total range to efficiency ratio
 - The Efficiency Index provides a more practical way to evaluate EVs than raw energy consumption alone
 - Leveraging Python for data imputation allowed a cleaner dataset and more robust analytics
